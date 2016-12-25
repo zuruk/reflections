@@ -4,7 +4,6 @@ this is reflections file we are going to create by order from masters of git uda
 
 Staging area is existing to give you control over commits. To add only files needed to be included
 
-<<<<<<< HEAD
 2. How can you use the staging area to make sure you have one commit per logical change?
 
 we can use git diff --staged to see if the commit is going to introduce only one change to a current version.
@@ -14,6 +13,6 @@ we can use git diff --staged to see if the commit is going to introduce only one
 4. How do the diagrams help you visualize the branch structure?
 
 it's useful to visualize parenting structure of the commits and see if a special code you introduced in diff branch was not appeared in your master still
-=======
-2. А тут я могу писать порусскаму и ничиво мне заэта нибудет, патамушто ветка
->>>>>>> russian
+
+5. А тут я могу писать порусскаму и ничиво мне заэта нибудет, патамушто ветка
+
