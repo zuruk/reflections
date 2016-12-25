@@ -1,0 +1,5 @@
+this is reflections file we are going to create by order from masters of git udacity
+
+1.How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area is existing to give you control over commits. To add only files needed to be included
