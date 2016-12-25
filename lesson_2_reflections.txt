@@ -7,3 +7,5 @@ Staging area is existing to give you control over commits. To add only files nee
 2. How can you use the staging area to make sure you have one commit per logical change?
 
 we can use git diff --staged to see if the commit is going to introduce only one change to a current version.
+
+3. new reflection upon branches - cool thing for hiding things in metadata
