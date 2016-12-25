@@ -3,3 +3,7 @@ this is reflections file we are going to create by order from masters of git uda
 1.How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Staging area is existing to give you control over commits. To add only files needed to be included
+
+2. How can you use the staging area to make sure you have one commit per logical change?
+
+we can use git diff --staged to see if the commit is going to introduce only one change to a current version.
