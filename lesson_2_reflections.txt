@@ -9,3 +9,7 @@ Staging area is existing to give you control over commits. To add only files nee
 we can use git diff --staged to see if the commit is going to introduce only one change to a current version.
 
 3. new reflection upon branches - cool thing for hiding things in metadata
+
+4. How do the diagrams help you visualize the branch structure?
+
+it's useful to visualize parenting structure of the commits and see if a special code you introduced in diff branch was not appeared in your master still
