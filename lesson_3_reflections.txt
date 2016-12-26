@@ -3,3 +3,14 @@ first try to update remote repository using github toolset
 - Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 If someone else is working on yyour public project you could be choosy whether you like to have new commits on your development or not. It's always good to be aware.
+
+- Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+fork is a clone of some other person project which is referenced to original projeect, but not commiting to it. But you can offer your results to be added to original project if you like.
+forks are existing on GitHub.
+
+Clone is an easy way to get a full copy of accessible repository to your computer
+And REMOTE relationships will be established automatively. You could commit to the cloned repository (if allowed by owner)
+
+Branch is a new stream of changes, which could even not be allowed to merge someday to master.
+
