@@ -14,3 +14,6 @@ And REMOTE relationships will be established automatively. You could commit to t
 
 Branch is a new stream of changes, which could even not be allowed to merge someday to master.
 
+- What is the benefit of having a copy of the last known state of the remote stored locally?
+
+to see what changes  did your collaborators since you were off line. And you can wark on your branch using all available code made before.
